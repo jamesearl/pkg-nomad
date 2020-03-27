@@ -1,5 +1,5 @@
 NAME=nomad
-VERSION=0.10.4
+VERSION=0.10.5
 REVISION=1
 NOMAD_VERSION=$(VERSION)
 MAINT=james.earl.3@gmail.com
